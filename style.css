@@ -1,0 +1,48 @@
+.calculator-body
+{
+    background-color: rgb(72, 72, 72);
+    width: 18%;
+    height: 52%;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+
+.cal-display input
+{
+    text-align: right;
+    margin-top: 10px;
+    height: 35px;
+    width: 208px;
+    font-size: large;
+    background-color: transparent;
+    color: white;
+    padding: none;
+    border: 2px solid rgb(97, 93, 93);
+    border-radius: 5px;
+}
+
+.button
+{
+    font-size: larger;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: transparent;
+    color: white;
+    margin-top: 10px;
+    margin-left: 1px;
+    height: 40px;
+    width: 45px;
+}
+.button_0
+{
+    font-size: larger;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: transparent;
+    color: white;
+    margin-top: 10px;
+    margin-left: 1px;
+    height: 40px;
+    width: 95px;
+}
+
